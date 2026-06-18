@@ -1,2 +1,3 @@
-timestamp_bkk,quiz_date,day_no,student_hash,score,max_score,correct_count,question_ids
-2026-06-18 08:00:46,2026-06-18,1,7637cc9385b736a73e80e2ecc7549f5a8faed8074b6d9952650f49c6eda4fab5,1,2,1,"0,1"
+timestamp_bkk,quiz_date,day_no,student_id,score,max_score,correct_count,question_ids
+2026-06-18 08:00:46,2026-06-18,1,,1,2,1,"0,1"
+2026-06-18 08:24:58,2026-06-18,1,3100800546088,2,2,2,"0,1"
