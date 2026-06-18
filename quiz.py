@@ -430,7 +430,7 @@ def is_correct(q, user_answer):
 # =========================
 # UI
 # =========================
-st.title("👂 Ear Health Quiz")
+st.title("👂 Ear Health Quiz: KU KPS Infirmary")
 st.caption("ตอบคำถามสุขภาพหูวันละ 2 ข้อ สะสมคะแนนชิงรางวัล")
 
 today, day_no, q_ids = get_today_questions()
